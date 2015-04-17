@@ -1,1 +1,7 @@
 wheel==0.23.0
+prompt-toolkit==0.31
+Pygments==2.0.2
+pyorient==1.4
+six==1.9.0
+tabulate==0.7.5
+wcwidth==0.1.4
