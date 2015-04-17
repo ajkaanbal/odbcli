@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from prompt_toolkit.contrib.completers import WordCompleter
 from prompt_toolkit.contrib.shortcuts import get_input
 from prompt_toolkit.interface import Abort
